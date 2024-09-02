@@ -1,7 +1,11 @@
 ![logo](https://github.com/Daniyal-EH-24/DANIYAL-EH-24/blob/main/4.jpg)
 <h1 align="center">Hi ??, I'm DANIYAL</h1>
 <h3 align="center">I IM ETHICAL HACKER ..</h3>
-<h3 align="left">I AM A STUDENT</h3>
+<h3 align="left">I AM A STUDENT😀😀😀😀😀</h3>
+
+<h3 align="left">I IM LEARNING WEB DEVELOPMENT ☺☺☺☺☺☺</h3>
+
+<h3 align="left">MY YOUTUBE CHANNEL = Anonymous-EH-24L</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniyal-eh-24&label=Profile%20views&color=0e75b6&style=flat" alt="daniyal-eh-24" /> </p>
