@@ -20,7 +20,7 @@
 <h3 align="left">.......................................................................................</h3>
 <h3 align="left">😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
+<img align="right" alt="coding" width="400" autoplay src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniyal-eh-24&label=Profile%20views&color=0e75b6&style=flat" alt="daniyal-eh-24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniyal-eh-24" alt="daniyal-eh-24" /></a> </p>
