@@ -8,8 +8,7 @@
 
 <h3 align="left">I IM LEARNING WEB DEVELOPMENT ☺☺☺☺☺☺</h3>
 
-<h3 align="left">MY YOUTUBE CHANNEL = Anonymous-EH-24</h3>
-<h3 align="left">SUBSCRIBE MY YOUTUBE CHANNEL</h3>
+
 <h3 align="left">THIS IS MY BUSINESS WHATSAPP NUMBER = +91 8920035799 </h3>
 <h3 align="left">CONTACT ME ON THIS NUMBER</h3>
 
@@ -25,7 +24,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniyal-eh-24" alt="daniyal-eh-24" /></a> </p>
 
-- ?? I’m currently learning **ETHICAL HACKING AND WEB DEVELOPMENT**
+- ?? I’m currently learning **WEB DEVELOPMENT**
 
 - ????? All of my projects are available at [THIS ACCOUNT](THIS ACCOUNT)
 
@@ -37,8 +36,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/anonymous_eh_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anonymous_eh_24" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Anonymous-EH-24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anonymous-eh-24" height="30" width="40" /></a>
+<a href"https://www.instagram.com/daniyal.sheikh.369/profilecard/?igsh=cXRkaHE4ejc2cnB2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniyal.sheikh.369" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
