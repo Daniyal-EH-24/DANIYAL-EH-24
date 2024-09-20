@@ -1,6 +1,6 @@
 ![logo](https://github.com/Daniyal-EH-24/DANIYAL-EH-24/blob/main/4.jpg)
 <h1 align="center">Hi ??, I'm DANIYAL</h1>
-<h3 align="center">I IM ETHICAL HACKER ..</h3>
+<h3 align="center">..</h3>
 <h3 align="left">😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎</h3>
 <h3 align="left">.......................................................................................</h3>
 <h3 align="left">.......................................................................................</h3>
